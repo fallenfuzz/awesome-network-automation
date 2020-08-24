@@ -58,12 +58,25 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Presentations
 
-- [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc), David Barroso, SDN and Network Automation Meetup, Stockholm, June 2016 [presentation](https://www.dravetech.com/presos/abstraction.html).
-- [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/), Jose Leitao, David Rothera, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf).
-- [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk), Mircea Ulinic, NANOG 69, February 2017 [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf).
-- [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I), David Barroso, Elisa Jasinska, NANOG 64, June 2015 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf).
-- [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/), Leslie Carr, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf).
-- [Securing Network Automation](https://www.youtube.com/watch?v=EXvJMv13t3A), Ivan Pepelnjak, Troopers 2017, March 2017 [slide deck](https://www.troopers.de/downloads/troopers17/TR17_Securing_Network_Automation.pdf).
+|            Title            |            Details            |            Year            |
+|-----------------------------|-------------------------------|----------------------------|
+| [Network Automation: The Hype vs. Reality](https://youtu.be/fFHL2o033Zc) | Jonah Kowall, NANOG | 2020 |
+| [Network Automation Architecture](https://youtu.be/VlDCYmItkzE) | John Anderson, Network Field Day 21 | 2019 |
+| [Network Automation Journey - Part 1](https://youtu.be/6wl2suubMIQ) | Damien Garros, Network Field Day 21 | 2019 |
+| [Network Automation Journey - Part 2](https://youtu.be/u0mYDbxH5-s) | Damien Garros, Network Field Day 21 | 2019 |
+| [Managing Network Device Properties as Code](https://youtu.be/dqzy7wyi1M4) | Damien Garros, NANOG 75 | 2019 |
+| [Powering Your Automation: A Single Source of Truth](https://youtu.be/_ad-DUGBNiw) | Tim Schreyack, NANOG 77 | 2019 |
+| [Bart Dworak AnsibleFest Keynote](https://www.ansible.com/bart-dworak-keynote-microsoft) | Bart Dworak, AnsibleFest | 2019 |
+| [Greenfielding Network and Systems Automation in a Large and Highly Dynamic Public Transit Network](https://www.ansible.com/greenfielding-network-and-systems-automation-in-a-large-and-highly-dynamic-public-transit-network) | Logan Best, AnsibleFest | 2019 |
+| [Using Ansible as a Catalyst for Digital Transformation](https://www.ansible.com/using-ansible-as-a-catalyst-for-digital-transformation) | Bart Dworak, AnsibleFest | 2019 |
+| [Securing Network Automation](https://www.youtube.com/watch?v=EXvJMv13t3A) | Ivan Pepelnjak, Troopers [slide deck](https://www.troopers.de/downloads/troopers17/TR17_Securing_Network_Automation.pdf).  | 2017 |
+| [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk) | Mircea Ulinic, NANOG 69, [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf). | 2017 |
+| [Experiences with network automation at Dyn](https://www.youtube.com/watch?v=a4s15nmjDkE) | Carlos Vicente, NANOG 67 | 2016 |
+| [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc) | David Barroso, SDN and Network Automation Meetup, Stockholm [presentation](https://www.dravetech.com/presos/abstraction.html). | 2016 |
+| [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/) | Jose Leitao, David Rothera, RIPE71 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf). | 2015 |
+| [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I) | David Barroso, Elisa Jasinska, NANOG 64 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf). | 2015 |
+| [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/) | Leslie Carr, RIPE71, [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf). | 2015 |
+
 
 # Blogs
 
@@ -101,7 +114,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
  - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
- - [JSON 2 YAML](json2yaml.com) - An online JSON to YAML conversion tool.
+ - [JSON diff](https://extendsclass.com/json-diff.html) - An online JSON diff tool.
+ - [JSON 2 YAML](https://www.json2yaml.com/) - An online JSON to YAML conversion tool.
 
 ### XML
 
@@ -149,7 +163,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
    - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
- - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1.
+ - [Checkpoint Management API](https://sc1.checkpoint.com/documents/latest/APIs/#web/) - Checkpoint Management REST API docs.
+ - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/cumulus-linux/System-Configuration/HTTP-API/) - Cumulus Networks REST API docs.
  - Extreme Networks:
    - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.
    - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API.
@@ -174,7 +189,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
     - [Documentation](https://github.com/batfish/batfish) - Getting Started Documentation for Batfish.
     - [Jupyter Notebook](https://github.com/batfish/pybatfish/tree/master/jupyter_notebooks) - Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.
     - [Video](https://www.youtube.com/playlist?list=PLUXUN_5CNTWJeMUqbUFcdi2qPnm_2mit3) - YouTube videos explaining how to use Batfish.
- 
+
 ## Chef
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
@@ -204,7 +219,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
  - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
 
-
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
@@ -219,6 +233,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
+ - [Cisco Genie Parsers](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers) - Genie Parsers by Cisco
  - [ciscocmd](https://github.com/eczema/ciscocmd-cosi) - Tcl/Expect script to send commands to multiple IOS devices.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
  - [Condoor](https://github.com/kstaniek/condoor) - This is a Python module providing access to Cisco devices over Telnet and SSH.
@@ -298,10 +313,13 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
  - [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
- 
+ - [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
+
 # Network Simulators
+
  - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
  - [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
+ - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
 
@@ -338,21 +356,24 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
 - [Ansible: Up and Running](https://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
+- [Cloud Native Data Center Networking](https://www.oreilly.com/library/view/cloud-native-data/9781492045595/) - If you want to study, build, or simply validate your thinking about modern cloud native data center networks, this is your book. Whether you’re pursuing a multitenant private cloud, a network for running machine learning, or an enterprise data center, author Dinesh Dutt takes you through the steps necessary to design a data center that’s affordable, high capacity, easy to manage, agile, and reliable.
 - [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357) - Learn the Infra as Code principles and design patterns (examples are for Compute not network though)
 - [Mastering Python Networking Second Edition (August 2018)](https://amzn.to/2PkMRiZ), [First Edition (June 2017 with more SDN-related topics)](https://amzn.to/2NBjlVM) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](https://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
 - [Network Automation at Scale](https://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - An introduction and practical look at using Salt to automate your network at scale, in a free ebook from O'Reilly.
-- [Site Reliability Engineering and The Site Reliability Workbook](https://landing.google.com/sre/book.html) - Learn concepts of automating and operating at scale from Google experts
-- [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles
-- [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) - See the concepts of Agile and DevOps in this fiction story about a typical IT Org
+- [Site Reliability Engineering and The Site Reliability Workbook](https://landing.google.com/sre/book.html) - Learn concepts of automating and operating at scale from Google experts.
+- [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google.
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles.
+- [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) - See the concepts of Agile and DevOps in this fiction story about a typical IT Org.
+- [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) - See the concepts of Agile and DevOps following a Developer viewpoint.
 
 # Vendor Agnostic Products
 - [Anuta Networks](https://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
 - [Apstra](https://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Cisco NSO](https://cisco.com/go/nso) - NSO (former Tail-f NCS) is a multi-vendor automation and orchestration platform for physical and virtual networks for over 80+ vendors. NSO provides YANG-based programmability through a wide variety of interfaces including CLI, RESTCONF, NETCONF, Java, Python and web UI.
+ - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intentionet](https://www.intentionet.com/) - Intentionet provides a hosted or on-premise network validation software solution based on [Batfish](http://www.batfish.org). Intentionet Sage's model-based network simulation enables pre-commit validation for all network changes, ensuring only correct changes are pushed to the network, thereby reducing outages and breaches while improving network agility.
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
@@ -362,20 +383,25 @@ models that enable capacity planning, network optimization and what-if scenario 
 # Network Vendor Products
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
+- [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach.
 - [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology.
 
 # Podcasts
 
 ## Podcasts Feeds
 
+- [Network to Code](https://networkcollective.com/category/episodes/network-to-code/) - Network to Code automation podcast on the Network Collective feed.
 - [Packet Pushers Full Stack](https://packetpushers.net/series/full-stack-journey/) - The Journey To Full Stack.
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
 ## Podcasts Episodes
 
 - [Network Collective EPISODE 10](https://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION.
+- [Network Collective Infrastructure as Code 101](https://networkcollective.com/2019/09/infrastructure-as-code/) Introduction to Infrastructure as Code with Damien Garros and Ken Celenza.
 - [Packet Pushers Datanauts 80](https://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry.
+- [Packet Pushers Day Two Cloud 043](https://packetpushers.net/podcast/day-two-cloud-043-git-for-ops-people/) - Git For Ops People with Damien Garros.
 - [Packet Pushers Heavy Networking #445](https://packetpushers.net/podcast/heavy-networking-445-an-introduction-to-the-nornir-automation-framework/) - David Barroso, Kirk Byers, and Dmitri Figol on Nornir.
+- [Packet Pushers Heavy Networking #498](https://packetpushers.net/podcast/heavy-networking-498-creating-a-single-source-of-truth-for-network-automation/) - Creating A Single Source Of Truth For Network Automation with Tim Schreyack.
 - [Packet Pushers PQ Show 81](https://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
 - [Packet Pushers PQ Show 99](https://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
 - [Packet Pushers PQ Show 116](https://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
@@ -402,4 +428,3 @@ This list is just getting started, please contribute to make it super awesome.
 [![CC4](https://mirrors.creativecommons.org/presskit/cc.srr.primary.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Licensed under the Creative Commons 4.0 License, see LICENSE file for more detail.
-
